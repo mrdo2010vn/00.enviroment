@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+/* =============== HTML DEFAULT =============== */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+p, pre, blockquote{
+    padding: 0;
+    margin: 5px 0 10px 0;
+}
+html {
+    font-size: 100%;
+}
+* {
+	font-family: "Arial", sans-serif;
+	font-size: 13px;
+}
+
+/* ================ PART ================ */
+.part {
+	width:500px;
+	margin: 0 auto;
+	padding: 5px;
+	background: #EEEEEE;
+}

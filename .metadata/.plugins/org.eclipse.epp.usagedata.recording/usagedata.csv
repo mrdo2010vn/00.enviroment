@@ -1,0 +1,267 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"An exception was thrown while indexing document",1380078113446
+error,log,,,"An exception was thrown while indexing document",1380078113454
+error,log,,,"An exception was thrown while indexing document",1380078113462
+error,log,,,"An exception was thrown while indexing document",1380078113470
+error,log,,,"An exception was thrown while indexing document",1380078113477
+error,log,,,"An exception was thrown while indexing document",1380078113484
+error,log,,,"An exception was thrown while indexing document",1380078113492
+error,log,,,"An exception was thrown while indexing document",1380078113500
+error,log,,,"An exception was thrown while indexing document",1380078113508
+error,log,,,"An exception was thrown while indexing document",1380078113516
+error,log,,,"An exception was thrown while indexing document",1380078113523
+error,log,,,"An exception was thrown while indexing document",1380078113531
+error,log,,,"An exception was thrown while indexing document",1380078113538
+error,log,,,"An exception was thrown while indexing document",1380078113546
+error,log,,,"An exception was thrown while indexing document",1380078113553
+error,log,,,"An exception was thrown while indexing document",1380078113561
+error,log,,,"releaseContributions: Unhandled manager: null",1380078131697
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1380078131729
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.e4.ui.workbench.swt"".",1380078132454
+error,log,,,"Exception occurred while unrendering: org.eclipse.e4.ui.model.application.ui.basic.impl.TrimmedWindowImpl@23f49f49 (elementId: IDEWindow, tags: [topLevel, shellMaximized], contributorURI: platform:/plugin/org.eclipse.platform) (widget: null, renderer: null, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (label: %trimmedwindow.label.eclipseSDK, iconURI: null, tooltip: null, context: null, variables: [], x: 30, y: -21, width: 1024, height: 768)",1380078132461
+closed,workbench,org.eclipse.ui.workbench,3.105.0.v20130529-1406,"",1380078132463
+error,log,,,"An unexpected runtime error has occurred.",1380078132954
+stopped,bundle,org.eclipse.pde.api.tools.ui,1.0.400.v20130508-1748,"org.eclipse.pde.api.tools.ui",1380078133149
+stopped,bundle,org.eclipse.pde.ds.ui,1.0.300.v20130507-2057,"org.eclipse.pde.ds.ui",1380078133151
+stopped,bundle,org.eclipse.pde.runtime,3.4.400.v20130402-1757,"org.eclipse.pde.runtime",1380078133152
+stopped,bundle,org.eclipse.pde.ua.ui,1.0.300.v20130508-1926,"org.eclipse.pde.ua.ui",1380078133157
+stopped,bundle,org.eclipse.pde.ui.templates,3.4.600.v20130507-2057,"org.eclipse.pde.ui.templates",1380078133161
+stopped,bundle,org.eclipse.pde.ui,3.8.0.v20130515-1659,"org.eclipse.pde.ui",1380078133161
+stopped,bundle,org.eclipse.ant.ui,3.5.400.v20130514-1341,"org.eclipse.ant.ui",1380078133165
+stopped,bundle,org.eclipse.ant.launching,1.0.300.v20130514-1341,"org.eclipse.ant.launching",1380078133167
+stopped,bundle,org.eclipse.compare.win32,1.0.200.v20130514-1224,"org.eclipse.compare.win32",1380078133169
+stopped,bundle,org.eclipse.egit.ui,3.0.0.201306101825-r,"org.eclipse.egit.ui",1380078133174
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.300.v20130503-1750,"org.eclipse.equinox.p2.ui.sdk",1380078133176
+stopped,bundle,org.eclipse.jdt.junit,3.7.200.v20130514-0733,"org.eclipse.jdt.junit",1380078133178
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.300.v20120516-0617,"org.eclipse.jdt.apt.ui",1380078133180
+stopped,bundle,org.eclipse.jdt.debug.ui,3.6.200.v20130514-0841,"org.eclipse.jdt.debug.ui",1380078133184
+stopped,bundle,org.eclipse.jdt.ui,3.9.0.v20130605-1748,"org.eclipse.jdt.ui",1380078133197
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.800.v201301082053,"org.eclipse.wst.dtd.ui",1380078133199
+stopped,bundle,org.eclipse.php.server.ui,3.2.0.201309091913,"org.eclipse.php.server.ui",1380078133201
+stopped,bundle,org.eclipse.php.debug.ui,3.2.0.201309091913,"org.eclipse.php.debug.ui",1380078133204
+stopped,bundle,org.eclipse.php.debug.core,3.2.0.201309091913,"org.eclipse.php.debug.core",1380078133208
+stopped,bundle,org.eclipse.php.formatter.core.tests,3.2.0.201309091913,"org.eclipse.php.formatter.core.tests",1380078133211
+stopped,bundle,org.eclipse.php.formatter.ui,3.2.0.201309091913,"org.eclipse.php.formatter.ui",1380078133213
+stopped,bundle,org.eclipse.php.formatter.core,3.2.0.201309091913,"org.eclipse.php.formatter.core",1380078133214
+stopped,bundle,org.eclipse.php.ui.tests,3.2.0.201309091913,"org.eclipse.php.ui.tests",1380078133216
+stopped,bundle,org.eclipse.php.ui,3.2.0.201309091913,"org.eclipse.php.ui",1380078133222
+stopped,bundle,org.eclipse.wst.jsdt.web.ui,1.0.600.v201302131536,"org.eclipse.wst.jsdt.web.ui",1380078133225
+stopped,bundle,org.eclipse.wst.web.ui,1.1.600.v201109220400,"org.eclipse.wst.web.ui",1380078133227
+stopped,bundle,org.eclipse.wst.html.ui,1.0.800.v201306071601,"org.eclipse.wst.html.ui",1380078133230
+stopped,bundle,org.eclipse.wst.css.ui,1.0.800.v201306071601,"org.eclipse.wst.css.ui",1380078133232
+activated,perspective,org.eclipse.php.ui,,"org.eclipse.php.perspective",1380078166560
+started,bundle,org.eclipse.osgi,3.9.0.v20130529-1710,"org.eclipse.osgi",1380078166566
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.400.v20130327-2119,"org.eclipse.equinox.simpleconfigurator",1380078166569
+started,bundle,com.ibm.icu,50.1.1.v201304230130,"com.ibm.icu",1380078166571
+started,bundle,org.apache.felix.gogo.command,0.10.0.v201209301215,"org.apache.felix.gogo.command",1380078166574
+started,bundle,org.apache.felix.gogo.runtime,0.10.0.v201209301036,"org.apache.felix.gogo.runtime",1380078166576
+started,bundle,org.apache.felix.gogo.shell,0.10.0.v201212101605,"org.apache.felix.gogo.shell",1380078166578
+started,bundle,org.eclipse.core.contenttype,3.4.200.v20130326-1255,"org.eclipse.core.contenttype",1380078166581
+started,bundle,org.eclipse.core.databinding.observable,1.4.1.v20130515-1857,"org.eclipse.core.databinding.observable",1380078166583
+started,bundle,org.eclipse.core.expressions,3.4.500.v20130515-1343,"org.eclipse.core.expressions",1380078166585
+started,bundle,org.eclipse.core.filesystem,1.4.0.v20130514-1240,"org.eclipse.core.filesystem",1380078166588
+started,bundle,org.eclipse.core.jobs,3.5.300.v20130429-1813,"org.eclipse.core.jobs",1380078166590
+started,bundle,org.eclipse.core.net,1.2.200.v20130430-1352,"org.eclipse.core.net",1380078166592
+started,bundle,org.eclipse.core.resources,3.8.100.v20130521-2026,"org.eclipse.core.resources",1380078166595
+started,bundle,org.eclipse.core.runtime,3.9.0.v20130326-1255,"org.eclipse.core.runtime",1380078166601
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.200.v20130326-1255,"org.eclipse.core.runtime.compatibility",1380078166604
+started,bundle,org.eclipse.debug.core,3.8.0.v20130514-0954,"org.eclipse.debug.core",1380078166607
+started,bundle,org.eclipse.e4.core.commands,0.10.2.v20130515-1857,"org.eclipse.e4.core.commands",1380078166609
+started,bundle,org.eclipse.e4.core.contexts,1.3.0.v20130514-1256,"org.eclipse.e4.core.contexts",1380078166611
+started,bundle,org.eclipse.e4.core.di,1.3.0.v20130514-1256,"org.eclipse.e4.core.di",1380078166613
+started,bundle,org.eclipse.e4.core.services,1.1.0.v20130515-1343,"org.eclipse.e4.core.services",1380078166615
+started,bundle,org.eclipse.e4.ui.bindings,0.10.100.v20130515-1857,"org.eclipse.e4.ui.bindings",1380078166618
+started,bundle,org.eclipse.e4.ui.css.swt,0.11.0.v20130515-1857,"org.eclipse.e4.ui.css.swt",1380078166620
+started,bundle,org.eclipse.e4.ui.css.swt.theme,0.9.100.v20130515-1857,"org.eclipse.e4.ui.css.swt.theme",1380078166622
+started,bundle,org.eclipse.e4.ui.di,1.0.0.v20130515-1857,"org.eclipse.e4.ui.di",1380078166624
+started,bundle,org.eclipse.e4.ui.model.workbench,1.0.0.v20130605-1738,"org.eclipse.e4.ui.model.workbench",1380078166627
+started,bundle,org.eclipse.e4.ui.services,1.0.0.v20130515-1857,"org.eclipse.e4.ui.services",1380078166629
+started,bundle,org.eclipse.e4.ui.workbench,1.0.0.v20130531-1444,"org.eclipse.e4.ui.workbench",1380078166631
+started,bundle,org.eclipse.e4.ui.workbench.addons.swt,1.0.0.v20130515-1857,"org.eclipse.e4.ui.workbench.addons.swt",1380078166632
+started,bundle,org.eclipse.e4.ui.workbench.renderers.swt,0.11.0.v20130603-1523,"org.eclipse.e4.ui.workbench.renderers.swt",1380078166634
+started,bundle,org.eclipse.e4.ui.workbench.swt,0.12.0.v20130517-0139,"org.eclipse.e4.ui.workbench.swt",1380078166636
+started,bundle,org.eclipse.emf.common,2.9.0.v20130528-0742,"org.eclipse.emf.common",1380078166641
+started,bundle,org.eclipse.emf.ecore,2.9.0.v20130528-0742,"org.eclipse.emf.ecore",1380078166645
+started,bundle,org.eclipse.emf.ecore.xmi,2.9.0.v20130528-0742,"org.eclipse.emf.ecore.xmi",1380078166648
+started,bundle,org.eclipse.equinox.app,1.3.100.v20130327-1442,"org.eclipse.equinox.app",1380078166650
+started,bundle,org.eclipse.equinox.common,3.6.200.v20130402-1505,"org.eclipse.equinox.common",1380078166651
+started,bundle,org.eclipse.equinox.console,1.0.100.v20130429-0953,"org.eclipse.equinox.console",1380078166653
+started,bundle,org.eclipse.equinox.ds,1.4.100.v20130515-2026,"org.eclipse.equinox.ds",1380078166656
+started,bundle,org.eclipse.equinox.event,1.3.0.v20130327-1442,"org.eclipse.equinox.event",1380078166659
+started,bundle,org.eclipse.equinox.p2.core,2.3.0.v20130327-2119,"org.eclipse.equinox.p2.core",1380078166661
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.300.v20130327-2119,"org.eclipse.equinox.p2.directorywatcher",1380078166664
+started,bundle,org.eclipse.equinox.p2.engine,2.3.0.v20130526-2122,"org.eclipse.equinox.p2.engine",1380078166666
+started,bundle,org.eclipse.equinox.p2.metadata,2.2.0.v20130523-1557,"org.eclipse.equinox.p2.metadata",1380078166669
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.100.v20130327-2119,"org.eclipse.equinox.p2.metadata.repository",1380078166671
+started,bundle,org.eclipse.equinox.p2.operations,2.3.0.v20130603-1809,"org.eclipse.equinox.p2.operations",1380078166702
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.200.v20130419-1850,"org.eclipse.equinox.p2.reconciler.dropins",1380078166705
+started,bundle,org.eclipse.equinox.p2.repository,2.3.0.v20130412-2032,"org.eclipse.equinox.p2.repository",1380078166707
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.2.0.v20130603-2142,"org.eclipse.equinox.p2.ui.sdk.scheduler",1380078166709
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20130327-2119,"org.eclipse.equinox.p2.updatechecker",1380078166710
+started,bundle,org.eclipse.equinox.preferences,3.5.100.v20130422-1538,"org.eclipse.equinox.preferences",1380078166712
+started,bundle,org.eclipse.equinox.registry,3.5.300.v20130327-1442,"org.eclipse.equinox.registry",1380078166715
+started,bundle,org.eclipse.equinox.security,1.2.0.v20130424-1801,"org.eclipse.equinox.security",1380078166718
+started,bundle,org.eclipse.equinox.util,1.0.500.v20130404-1337,"org.eclipse.equinox.util",1380078166720
+started,bundle,org.eclipse.help,3.6.0.v20130326-1254,"org.eclipse.help",1380078166723
+started,bundle,org.eclipse.jface,3.9.0.v20130521-1714,"org.eclipse.jface",1380078166724
+started,bundle,org.eclipse.ltk.core.refactoring,3.6.100.v20130605-1748,"org.eclipse.ltk.core.refactoring",1380078166726
+started,bundle,org.eclipse.ltk.ui.refactoring,3.7.100.v20130605-1748,"org.eclipse.ltk.ui.refactoring",1380078166728
+started,bundle,org.eclipse.pde.launching,3.6.100.v20130507-2111,"org.eclipse.pde.launching",1380078166730
+started,bundle,org.eclipse.pde.ui,3.8.0.v20130515-1659,"org.eclipse.pde.ui",1380078166734
+started,bundle,org.eclipse.team.core,3.7.0.v20130514-1224,"org.eclipse.team.core",1380078166736
+started,bundle,org.eclipse.ui,3.105.0.v20130522-1122,"org.eclipse.ui",1380078166739
+started,bundle,org.eclipse.ui.ide,3.9.0.v20130517-0139,"org.eclipse.ui.ide",1380078166743
+started,bundle,org.eclipse.ui.net,1.2.200.v20120807-0927,"org.eclipse.ui.net",1380078166745
+started,bundle,org.eclipse.ui.trace,1.0.100.v20130508-1926,"org.eclipse.ui.trace",1380078166747
+started,bundle,org.eclipse.ui.views,3.6.100.v20130326-1250,"org.eclipse.ui.views",1380078166749
+started,bundle,org.eclipse.ui.views.log,1.0.400.v20130515-2009,"org.eclipse.ui.views.log",1380078166751
+started,bundle,org.eclipse.ui.workbench,3.105.0.v20130529-1406,"org.eclipse.ui.workbench",1380078166753
+started,bundle,org.eclipse.ui.workbench.texteditor,3.8.100.v20130514-1533,"org.eclipse.ui.workbench.texteditor",1380078166755
+started,bundle,org.eclipse.update.configurator,3.3.200.v20130326-1319,"org.eclipse.update.configurator",1380078166757
+started,bundle,net.sourceforge.vrapper.eclipse,0.34.1,"net.sourceforge.vrapper.eclipse",1380078166758
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1380078166760
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1380078166762
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1380078166764
+started,bundle,org.eclipse.jface,3.6.2.M20110210-1200,"org.eclipse.jface",1380078166767
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1380078166769
+started,bundle,org.eclipse.dltk.core,5.0.0.201306060709,"org.eclipse.dltk.core",1380078166771
+started,bundle,org.eclipse.dltk.core.index.sql,5.0.0.201306060709,"org.eclipse.dltk.core.index.sql",1380078166772
+started,bundle,org.eclipse.dltk.core.index.sql.h2,5.0.0.201306060709,"org.eclipse.dltk.core.index.sql.h2",1380078166774
+started,bundle,org.eclipse.dltk.launching,5.0.0.201306060709,"org.eclipse.dltk.launching",1380078166776
+started,bundle,org.eclipse.dltk.ui,5.0.0.201306060709,"org.eclipse.dltk.ui",1380078166782
+started,bundle,org.eclipse.dltk.validators.core,5.0.0.201306060709,"org.eclipse.dltk.validators.core",1380078166783
+started,bundle,org.eclipse.php.core,3.2.0.201309091913,"org.eclipse.php.core",1380078166786
+started,bundle,org.eclipse.epp.mpc.ui,1.2.0.v20130612-1900,"org.eclipse.epp.mpc.ui",1380078166788
+started,bundle,org.eclipse.rse.connectorservice.local,2.1.400.201205062159,"org.eclipse.rse.connectorservice.local",1380078166793
+started,bundle,org.eclipse.rse.core,3.3.100.201305201712,"org.eclipse.rse.core",1380078166795
+started,bundle,org.eclipse.rse.files.ui,3.2.200.201305031537,"org.eclipse.rse.files.ui",1380078166797
+started,bundle,org.eclipse.rse.services,3.2.200.201211090626,"org.eclipse.rse.services",1380078166798
+started,bundle,org.eclipse.rse.services.local,2.1.500.201305211438,"org.eclipse.rse.services.local",1380078166801
+started,bundle,org.eclipse.rse.subsystems.files.core,3.3.1.201211140039,"org.eclipse.rse.subsystems.files.core",1380078166803
+started,bundle,org.eclipse.rse.subsystems.files.local,2.1.300.201205062159,"org.eclipse.rse.subsystems.files.local",1380078166810
+started,bundle,org.eclipse.rse.subsystems.shells.core,3.1.300.201205141739,"org.eclipse.rse.subsystems.shells.core",1380078166812
+started,bundle,org.eclipse.rse.subsystems.shells.local,2.1.400.201205062159,"org.eclipse.rse.subsystems.shells.local",1380078166819
+started,bundle,org.eclipse.rse.ui,3.3.100.201305071605,"org.eclipse.rse.ui",1380078166821
+started,bundle,org.eclipse.update.core,3.2.600.v20130514-1341,"org.eclipse.update.core",1380078166826
+os,sysinfo,,,"win32",1380078166841
+arch,sysinfo,,,"x86_64",1380078166841
+ws,sysinfo,,,"win32",1380078166841
+locale,sysinfo,,,"en_US",1380078166841
+processors,sysinfo,,,"4",1380078166841
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1380078166841
+java.runtime.version,sysinfo,,,"1.7.0_21-b11",1380078166841
+java.specification.name,sysinfo,,,"Java Platform API Specification",1380078166841
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1380078166841
+java.specification.version,sysinfo,,,"1.7",1380078166841
+java.vendor,sysinfo,,,"Oracle Corporation",1380078166841
+java.version,sysinfo,,,"1.7.0_21",1380078166841
+java.vm.info,sysinfo,,,"mixed mode",1380078166841
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1380078166841
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1380078166841
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1380078166841
+java.vm.specification.version,sysinfo,,,"1.7",1380078166841
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1380078166842
+java.vm.version,sysinfo,,,"23.21-b01",1380078166842
+error,log,,,"An exception was thrown while indexing document",1380078166850
+error,log,,,"An exception was thrown while indexing document",1380078166860
+error,log,,,"An exception was thrown while indexing document",1380078166867
+error,log,,,"An exception was thrown while indexing document",1380078166874
+error,log,,,"An exception was thrown while indexing document",1380078166881
+error,log,,,"An exception was thrown while indexing document",1380078166889
+error,log,,,"An exception was thrown while indexing document",1380078166897
+error,log,,,"An exception was thrown while indexing document",1380078166904
+error,log,,,"An exception was thrown while indexing document",1380078166912
+error,log,,,"An exception was thrown while indexing document",1380078166919
+error,log,,,"An exception was thrown while indexing document",1380078166926
+error,log,,,"An exception was thrown while indexing document",1380078166934
+error,log,,,"An exception was thrown while indexing document",1380078166941
+error,log,,,"An exception was thrown while indexing document",1380078166947
+error,log,,,"An exception was thrown while indexing document",1380078166954
+error,log,,,"An exception was thrown while indexing document",1380078166962
+error,log,,,"An exception was thrown while indexing document",1380078166969
+error,log,,,"An exception was thrown while indexing document",1380078166977
+error,log,,,"An exception was thrown while indexing document",1380078166984
+error,log,,,"An exception was thrown while indexing document",1380078166991
+error,log,,,"An exception was thrown while indexing document",1380078166998
+error,log,,,"An exception was thrown while indexing document",1380078167005
+error,log,,,"An exception was thrown while indexing document",1380078167013
+error,log,,,"An exception was thrown while indexing document",1380078167023
+error,log,,,"An exception was thrown while indexing document",1380078167032
+error,log,,,"An exception was thrown while indexing document",1380078167041
+error,log,,,"An exception was thrown while indexing document",1380078167049
+error,log,,,"An exception was thrown while indexing document",1380078167056
+error,log,,,"An exception was thrown while indexing document",1380078167063
+error,log,,,"An exception was thrown while indexing document",1380078167071
+error,log,,,"An exception was thrown while indexing document",1380078167079
+error,log,,,"An exception was thrown while indexing document",1380078167088
+error,log,,,"An exception was thrown while indexing document",1380078167095
+error,log,,,"An exception was thrown while indexing document",1380078167102
+error,log,,,"An exception was thrown while indexing document",1380078167110
+error,log,,,"An exception was thrown while indexing document",1380078167117
+error,log,,,"An exception was thrown while indexing document",1380078167124
+error,log,,,"An exception was thrown while indexing document",1380078167132
+error,log,,,"An exception was thrown while indexing document",1380078167140
+error,log,,,"An exception was thrown while indexing document",1380078167147
+error,log,,,"An exception was thrown while indexing document",1380078167154
+error,log,,,"An exception was thrown while indexing document",1380078167161
+error,log,,,"An exception was thrown while indexing document",1380078167168
+error,log,,,"An exception was thrown while indexing document",1380078167176
+error,log,,,"An exception was thrown while indexing document",1380078167183
+error,log,,,"An exception was thrown while indexing document",1380078167190
+error,log,,,"An exception was thrown while indexing document",1380078167197
+error,log,,,"An exception was thrown while indexing document",1380078167207
+error,log,,,"An exception was thrown while indexing document",1380078167217
+error,log,,,"An exception was thrown while indexing document",1380078167228
+error,log,,,"An exception was thrown while indexing document",1380078167237
+error,log,,,"An exception was thrown while indexing document",1380078167249
+error,log,,,"An exception was thrown while indexing document",1380078167258
+error,log,,,"An exception was thrown while indexing document",1380078167269
+error,log,,,"An exception was thrown while indexing document",1380078167276
+error,log,,,"An exception was thrown while indexing document",1380078167286
+error,log,,,"An exception was thrown while indexing document",1380078167297
+error,log,,,"An exception was thrown while indexing document",1380078167324
+error,log,,,"An exception was thrown while indexing document",1380078167334
+error,log,,,"An exception was thrown while indexing document",1380078167342
+error,log,,,"An exception was thrown while indexing document",1380078167351
+error,log,,,"An exception was thrown while indexing document",1380078167361
+error,log,,,"An exception was thrown while indexing document",1380078167369
+error,log,,,"An exception was thrown while indexing document",1380078167376
+error,log,,,"An exception was thrown while indexing document",1380078167381
+error,log,,,"An exception was thrown while indexing document",1380078167387
+error,log,,,"An exception was thrown while indexing document",1380078167393
+error,log,,,"An exception was thrown while indexing document",1380078167399
+error,log,,,"An exception was thrown while indexing document",1380078167405
+error,log,,,"An exception was thrown while indexing document",1380078167411
+error,log,,,"An exception was thrown while indexing document",1380078167417
+error,log,,,"An exception was thrown while indexing document",1380078167423
+error,log,,,"An exception was thrown while indexing document",1380078167429
+error,log,,,"An exception was thrown while indexing document",1380078167436
+error,log,,,"releaseContributions: Unhandled manager: null",1380078183568
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1380078183609
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.e4.ui.workbench.swt"".",1380078184474
+error,log,,,"Exception occurred while unrendering: org.eclipse.e4.ui.model.application.ui.basic.impl.TrimmedWindowImpl@16b4417b (elementId: IDEWindow, tags: [topLevel, shellMaximized], contributorURI: platform:/plugin/org.eclipse.platform) (widget: null, renderer: null, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (label: %trimmedwindow.label.eclipseSDK, iconURI: null, tooltip: null, context: null, variables: [], x: 30, y: -21, width: 1024, height: 768)",1380078184488
+closed,workbench,org.eclipse.ui.workbench,3.105.0.v20130529-1406,"",1380078184491
+error,log,,,"An unexpected runtime error has occurred.",1380078185178
+stopped,bundle,org.eclipse.pde.api.tools.ui,1.0.400.v20130508-1748,"org.eclipse.pde.api.tools.ui",1380078185469
+stopped,bundle,org.eclipse.pde.ds.ui,1.0.300.v20130507-2057,"org.eclipse.pde.ds.ui",1380078185470
+stopped,bundle,org.eclipse.pde.runtime,3.4.400.v20130402-1757,"org.eclipse.pde.runtime",1380078185471
+stopped,bundle,org.eclipse.pde.ua.ui,1.0.300.v20130508-1926,"org.eclipse.pde.ua.ui",1380078185473
+stopped,bundle,org.eclipse.pde.ui.templates,3.4.600.v20130507-2057,"org.eclipse.pde.ui.templates",1380078185476
+stopped,bundle,org.eclipse.pde.ui,3.8.0.v20130515-1659,"org.eclipse.pde.ui",1380078185477
+stopped,bundle,org.eclipse.ant.ui,3.5.400.v20130514-1341,"org.eclipse.ant.ui",1380078185480
+stopped,bundle,org.eclipse.ant.launching,1.0.300.v20130514-1341,"org.eclipse.ant.launching",1380078185485
+stopped,bundle,org.eclipse.compare.win32,1.0.200.v20130514-1224,"org.eclipse.compare.win32",1380078185487
+stopped,bundle,org.eclipse.egit.ui,3.0.0.201306101825-r,"org.eclipse.egit.ui",1380078185495
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.300.v20130503-1750,"org.eclipse.equinox.p2.ui.sdk",1380078185496
+stopped,bundle,org.eclipse.jdt.junit,3.7.200.v20130514-0733,"org.eclipse.jdt.junit",1380078185499
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.300.v20120516-0617,"org.eclipse.jdt.apt.ui",1380078185501
+stopped,bundle,org.eclipse.jdt.debug.ui,3.6.200.v20130514-0841,"org.eclipse.jdt.debug.ui",1380078185504
+stopped,bundle,org.eclipse.jdt.ui,3.9.0.v20130605-1748,"org.eclipse.jdt.ui",1380078185518
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.800.v201301082053,"org.eclipse.wst.dtd.ui",1380078185520
+stopped,bundle,org.eclipse.php.server.ui,3.2.0.201309091913,"org.eclipse.php.server.ui",1380078185522
+stopped,bundle,org.eclipse.php.debug.ui,3.2.0.201309091913,"org.eclipse.php.debug.ui",1380078185525
+stopped,bundle,org.eclipse.php.debug.core,3.2.0.201309091913,"org.eclipse.php.debug.core",1380078185527
+stopped,bundle,org.eclipse.php.formatter.core.tests,3.2.0.201309091913,"org.eclipse.php.formatter.core.tests",1380078185528
+stopped,bundle,org.eclipse.php.formatter.ui,3.2.0.201309091913,"org.eclipse.php.formatter.ui",1380078185531
+stopped,bundle,org.eclipse.php.formatter.core,3.2.0.201309091913,"org.eclipse.php.formatter.core",1380078185532
+stopped,bundle,org.eclipse.php.ui.tests,3.2.0.201309091913,"org.eclipse.php.ui.tests",1380078185533

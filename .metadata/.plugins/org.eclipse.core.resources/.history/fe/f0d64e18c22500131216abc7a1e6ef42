@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="css/style.css" />
+<title>00.Enviroment</title>
+</head>
+<body>
+	<div class="part">
+		<div class="title">
+			<h2><span class="underscore">Git</span>, the VCS</h2>
+			<p>We used to work with version control system (VCS), named SVN, if you remember, and Git is a VCS, and is more powerful than SVN</p>
+		</div><!-- END .title -->
+		<div class="content">
+			<h2>The goals</h2>
+			<ol>
+				<li class="bold italic">Register & setup a Github account
+					<blockquote>
+						<p>Here, at <a href="http://github.com">http://github.com.</a></p>
+						<p>Make sure that you have the appropriate tool for working with Github, too.</p>
+					</blockquote>
+				</li>
+				
+				<li class="bold italic">Create a public repository on github
+					<blockquote>
+						<p>Let Github init it + create the <span class="bold">README.md</span> for you</p>
+						<p>And just name the repo whatever you want</p>
+					</blockquote>
+				</li>
+				<li class="bold italic">In that repository, make a directory, called <span class="bold italic">00.Enviroment</span>
+					<blockquote>
+						<p>We will work on that github repository instead of email, for convenient.</p>
+						<p>So please let me know the repository name after it's created.</p>
+					</blockquote>
+				</li>
+			</ol>
+		</div><!-- END .content -->
+	</div><!-- END .part -->
+	
+	
+</body>
+</html>
